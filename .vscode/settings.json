@@ -1,0 +1,10 @@
+{
+  "typescript.workspaceSymbols.scope": "currentProject",
+  "material-icon-theme.folders.theme": "classic",
+  "material-icon-theme.files.associations": {
+
+
+  },
+  "editor.semanticHighlighting.enabled": true,
+  "editor.tokenColorCustomizations": null
+}
